@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search
 |  |
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
